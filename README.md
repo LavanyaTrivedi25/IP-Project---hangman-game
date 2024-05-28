@@ -1,1 +1,1 @@
-# IP-Project---hangman-game
+# IP-Project-12th-Hangman-game

@@ -1,0 +1,119 @@
+Symbol,Name,AtomicMass,Nature,AtomicNumber
+H,Hydrogen,1.008,gas,1
+He,Helium,4.002602,synthetic,2
+Li,Lithium,6.94,solid,3
+Be,Beryllium,9.0121831,solid,4
+B,Boron,10.81,solid,5
+C,Carbon,12.011,solid,6
+N,Nitrogen,14.007,synthetic,7
+O,Oxygen,15.999,synthetic,8
+F,Fluorine,18.998403163,gas,9
+Ne,Neon,20.1797,synthetic,10
+Na,Sodium,22.98976928,solid,11
+Mg,Magnesium,24.305,solid,12
+Al,Aluminum,26.9815385,solid,13
+Si,Silicon,28.085,solid,14
+P,Phosphorus,30.973761998,solid,15
+S,Sulfur,32.06,solid,16
+Cl,Chlorine,35.45,gas,17
+Ar,Argon,39.948,synthetic,18
+K,Potassium,39.0983,solid,19
+Ca,Calcium,40.078,solid,20
+Sc,Scandium,44.955908,solid,21
+Ti,Titanium,47.867,solid,22
+V,Vanadium,50.9415,solid,23
+Cr,Chromium,51.9961,solid,24
+Mn,Manganese,54.938044,solid,25
+Fe,Iron,55.845,solid,26
+Co,Cobalt,58.933194,solid,27
+Ni,Nickel,58.6934,solid,28
+Cu,Copper,63.546,solid,29
+Zn,Zinc,65.38,solid,30
+Ga,Gallium,69.723,liquid,31
+Ge,Germanium,72.63,solid,32
+As,Arsenic,74.921595,solid,33
+Se,Selenium,78.971,solid,34
+Br,Bromine,79.904,liquid,35
+Kr,Krypton,83.798,synthetic,36
+Rb,Rubidium,85.4678,solid,37
+Sr,Strontium,87.62,solid,38
+Y,Yttrium,88.90584,solid,39
+Zr,Zirconium,91.224,solid,40
+Nb,Niobium,92.90637,solid,41
+Mo,Molybdenum,95.95,solid,42
+Tc,Technetium,98.0,gas and radioactive,43
+Ru,Ruthenium,101.07,solid,44
+Rh,Rhodium,102.9055,solid,45
+Pd,Palladium,106.42,solid,46
+Ag,Silver,107.8682,solid,47
+Cd,Cadmium,112.414,solid,48
+In,Indium,114.818,solid,49
+Sn,Tin,118.71,solid,50
+Sb,Antimony,121.76,solid,51
+Te,Tellurium,127.6,solid,52
+I,Iodine,126.90447,solid,53
+Xe,Xenon,131.293,synthetic,54
+Cs,Cesium,132.90545196,liquid,55
+Ba,Barium,137.327,solid,56
+La,Lanthanum,138.90547,solid,57
+Ce,Cerium,140.116,solid,58
+Pr,Praseodymium,140.90766,solid,59
+Nd,Neodymium,144.242,solid,60
+Pm,Promethium,145.0,gas and radioactive,61
+Sm,Samarium,150.36,solid and radioactive,62
+Eu,Europium,151.964,solid,63
+Gd,Gadolinium,157.25,solid,64
+Tb,Terbium,158.92535,solid,65
+Dy,Dysprosium,162.5,solid,66
+Ho,Holmium,164.93033,solid,67
+Er,Erbium,167.259,solid,68
+Tm,Thulium,168.93422,solid,69
+Yb,Ytterbium,173.045,solid,70
+Lu,Lutetium,174.9668,solid,71
+Hf,Hafnium,178.49,solid,72
+Ta,Tantalum,180.94788,solid,73
+W,Tungsten,183.84,solid,74
+Re,Rhenium,186.207,solid,75
+Os,Osmium,190.23,solid,76
+Ir,Iridium,192.217,solid,77
+Pt,Platinum,195.084,solid,78
+Au,Gold,196.966569,solid,79
+Hg,Mercury,200.592,liquid,80
+Tl,Thallium,204.38,solid,81
+Pb,Lead,207.2,solid,82
+Bi,Bismuth,208.9804,solid,83
+Po,Polonium,209.0,solid and radioactive,84
+At,Astatine,210.0,solid and radioactive,85
+Rn,Radon,222.0,synthetic and radioactive,86
+Fr,Francium,223.0,liquid and radioactive,87
+Ra,Radium,226.0,solid and radioactive,88
+Ac,Actinium,227.0,solid and radioactive,89
+Th,Thorium,232.0377,solid and radioactive,90
+Pa,Protactinium,231.03588,solid and radioactive,91
+U,Uranium,238.02891,solid and radioactive,92
+Np,Neptunium,237.0,gas and radioactive,93
+Pu,Plutonium,244.0,gas and radioactive,94
+Am,Americium,243.0,gas and radioactive,95
+Cm,Curium,247.0,gas and radioactive,96
+Bk,Berkelium,247.0,gas and radioactive,97
+Cf,Californium,251.0,gas and radioactive,98
+Es,Einsteinium,252.0,gas and radioactive,99
+Fm,Fermium,257.0,gas and radioactive,100
+Md,Mendelevium,258.0,gas and radioactive,101
+No,Nobelium,259.0,gas and radioactive,102
+Lr,Lawrencium,262.0,gas and radioactive,103
+Rf,Rutherfordium,267.0,synthetic and radioactive,104
+Db,Dubnium,268.0,synthetic and radioactive,105
+Sg,Seaborgium,271.0,synthetic and radioactive,106
+Bh,Bohrium,270.0,synthetic and radioactive,107
+Hs,Hassium,277.0,synthetic and radioactive,108
+Mt,Meitnerium,276.0,synthetic and radioactive,109
+Ds,Darmstadtium,281.0,synthetic and radioactive,110
+Rg,Roentgenium,280.0,synthetic and radioactive,111
+Cn,Copernicium,285.0,synthetic and radioactive,112
+Nh,Nihonium,284.0,synthetic and radioactive,113
+Fl,Flerovium,289.0,synthetic and radioactive,114
+Mc,Moscovium,288.0,synthetic and radioactive,115
+Lv,Livermorium,293.0,synthetic and radioactive,116
+Ts,Tennessine,294.0,synthetic and radioactive,117
+Og,Oganesson,294.0,synthetic and radioactive,118
